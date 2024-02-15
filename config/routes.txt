@@ -1,0 +1,14 @@
+/
+
+/projects
+/projects/:project-id
+/legal-notices
+/about
+/contact
+
+/login
+/admin
+/admin/my-account
+/admin/projects
+/admin/add-project
+/logout
