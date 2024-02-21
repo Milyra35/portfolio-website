@@ -20,7 +20,7 @@ class Project {
         $this->description = $description;
         $this->beginning_date = $beginning_date;
         $this->ending_date = null;
-        $this->languages = $languages;
+        $this->languages = [];
         $this->url = null;
         $this->github = $github;
         $this->category = $category;

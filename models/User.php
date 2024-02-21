@@ -2,7 +2,7 @@
 
 class User {
     private ?int $id;
-    private string $fist_name;
+    private string $first_name;
     private string $last_name;
     private string $email;
     private string $password;
@@ -10,7 +10,7 @@ class User {
     public function __construct(string $first_name, string $last_name, string $email, string $password)
     {
         $this->id = null;
-        $this->first_name = $fist_name;
+        $this->first_name = $first_name;
         $this->last_name = $last_name;
         $this->email = $email;
         $this->password = $password;
